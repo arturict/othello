@@ -1,0 +1,38 @@
+{
+  "scriptId": "337",
+  "url": "file:///home/artur/school/bucher-agile/othello/fibonacci.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 212,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fibonacci",
+      "ranges": [
+        {
+          "startOffset": 7,
+          "endOffset": 212,
+          "count": 2
+        },
+        {
+          "startOffset": 94,
+          "endOffset": 101,
+          "count": 1
+        },
+        {
+          "startOffset": 140,
+          "endOffset": 200,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}
