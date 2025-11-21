@@ -1,4 +1,3 @@
-//Auftrag: Speichere diesen Code in einer Datei namens quadratic_equation.ts ab. Ermittle nun die drei nötigen Testfälle (d.h. Wertkombinationen für die Parameter a, b und c), um eine vollständige Codeüberdeckung zu erreichen. Erstelle nun automatisch ausführbare Testfälle in quadratic_equation_test.ts, führe sie aus und miss deren Codeüberdeckung.
 //mit deno test und deno coverage,analog zu fibnacci_test.ts
 import { solve } from "./quadratic_equation.ts";
 import { expect } from "jsr:@std/expect";
